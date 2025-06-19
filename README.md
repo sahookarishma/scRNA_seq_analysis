@@ -90,7 +90,10 @@ UMAP clusters
     Stuart et al. Comprehensive Integration of Single-Cell Data. Cell (2019).
 
     GEO Dataset GSE221575: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE221575
+   
     
 📌 Publication
-Results of this analysis is published in the following paper 
-Sahoo K, Sundararajan V. IL-1β and associated molecules as prognostic biomarkers linked with immune cell infiltration in colorectal cancer: an integrated statistical and machine learning approach. Discov Oncol. 2025 Feb 28;16(1):252. doi: 10.1007/s12672-025-01989-3. PMID: 40019680; PMCID: PMC11871282.
+
+    Results of this analysis is published in the following paper 
+    Sahoo K, Sundararajan V. IL-1β and associated molecules as prognostic biomarkers linked with immune cell infiltration in colorectal cancer: an integrated statistical and machine learning approach. Discov Oncol. 2025 Feb 28;16(1):252. doi: 10.1007/s12672-025-01989-3. PMID: 40019680; PMCID: PMC11871282.
+
