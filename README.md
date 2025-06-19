@@ -1,7 +1,7 @@
 # scRNA_seq_analysis
 📂 Dataset
 
-GEO Accession: GSEXXXX
+GEO Accession: GSE221575
 Platform: Illumina NovaSeq 6000
 Samples: Primary tumor, metastatic, and normal tissues from CRC patients.
 🧪 Objective
